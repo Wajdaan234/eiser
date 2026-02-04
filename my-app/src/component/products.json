@@ -1,0 +1,61 @@
+[
+        { 
+            "id": 1, 
+            "name": "JOBLET LARGE TOTE", 
+            "price": "25.00", 
+            "oldPrice": "$35.00", 
+            "color": "Pink", 
+            "category": "Women Bag", 
+            "brand": "Gucci", 
+            "imgSrc": "/assets/img/product/inspired-product/i1.jpg", 
+            "short_detail": "An expertly crafted tan tote offering generous capacity with refined aesthetics. The coordinated pouch enhances functionality while maintaining a polished, cohesive look for discerning daily use.",
+            "detail": "An expertly crafted tan tote offering generous capacity with refined aesthetics. The coordinated pouch enhances functionality while maintaining a polished, cohesive look for discerning daily use.", 
+            "avalablity": "In Stock"
+        },
+        { 
+            "id": 2, 
+            "name": "Baggy jeans for girls", 
+            "price": "20.00", 
+            "oldPrice": "$15.00", 
+            "color": "Denim Blue", 
+            "category": "Women Clothes", 
+            "brand": "Levis", 
+            "imgSrc": "/assets/img/product/inspired-product/i2.jpg" },
+        { 
+            "id": 3, 
+            "name": "Watch for girls", 
+            "price": "35.00", 
+            "oldPrice": "$25.00", 
+            "color": "Black", 
+            "category": "Watch", 
+            "brand": "Fossil", 
+            "imgSrc": "/assets/img/product/inspired-product/i3.jpg" 
+        },
+        { 
+            "id": 4, 
+            "name": "Latest men’s sneaker", 
+            "price": "70.00", "oldPrice": "$40.00", 
+            "color": "White", 
+            "category": "Sneakers", 
+            "brand": "Nike", 
+            "imgSrc": "/assets/img/product/inspired-product/i4.jpg" 
+        },
+        { 
+            "id": 5,
+             "name": "Branded Watch",
+             "price": "60.00", "oldPrice": "$30.00",
+              "color": "Black", 
+              "category": "Watch", 
+              "brand": "Rolex", 
+              "imgSrc": "/assets/img/product/inspired-product/i5.jpg"
+             },
+        { 
+            "id": 6, 
+            "name": "Girls sneaker", 
+            "price": "60.00", "oldPrice": "$200.00", 
+            "color": "Pink", 
+            "category": "Sneakers", 
+            "brand": "Adidas", 
+            "imgSrc": "/assets/img/product/inspired-product/i6.jpg"
+         }
+]
